@@ -1,7 +1,7 @@
 An example LÖVE game, created for a workshop.
 
+![alt text](https://img.itch.zone/aW1hZ2UvMTkxMTY2Lzg5NDg5My5naWY=/347x500/owDdyj.gif "GIF")
+
 Executable available [here](https://gprosser.itch.io/zombie).
 
-YouTube video:
-
-[![Video](http://img.youtube.com/vi/9W0hQRu0KH8/0.jpg)](http://www.youtube.com/watch?v=9W0hQRu0KH8)
+Gameplay video: https://www.youtube.com/watch?v=9W0hQRu0KH8
