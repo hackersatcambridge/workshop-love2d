@@ -56,12 +56,38 @@ function love.draw()
 end
 ```
 
+# Asset Links
+
+Assets like music, images, and fonts will be used when creating the game for this workshop, links to them can be found below.
+
+
+
+
 # Example Games
 
-These are some example games created with LÖVE, just for this workshop.
+These are some example games created with LÖVE, just for this workshop. You can download them by cloning this repository or by downloading the executables below.
 
-- [CÖIN source](/zombie) `/zombie`
+To run these from source, just drag the folders onto your LÖVE executable or run `love FOLDER_NAME` from the command line.
+
+## CÖIN
+
+- [CÖIN source](/zombie): `/zombie`
+
+- [CÖIN executable](https://gprosser.itch.io/coin)
+
+CÖIN is a version of the game we created in this workshop, but taken to the next level with music, animations and improved code layout.
+
+![CÖIN game video](images/coin.gif)
+
+
+## ZOMBIE
 
 - [ZÖMBIE source](/coin): `/coin`
 
-To run these, just drag the folders onto your LÖVE executable or run `love FOLDER_NAME` from the command line.
+- [ZÖMBIE executable](https://gprosser.itch.io/zombie)
+
+![ZÖMBIE game video](images/zombie.gif)
+
+ZÖMBIE takes everything to the next level, what if the coins from the previous game, were deadly, chased you down, and had a craving for brains???
+
+
