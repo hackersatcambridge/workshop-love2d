@@ -1,4 +1,6 @@
-An example LÖVE game, created for a workshop.
+An example LÃ–VE game, created for a workshop.
+
+You can find the original code [here](https://bitbucket.org/gprosser/zombie).
 
 ![alt text](https://img.itch.zone/aW1hZ2UvMTkxMTY2Lzg5NDg5My5naWY=/347x500/owDdyj.gif "GIF")
 

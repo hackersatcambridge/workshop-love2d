@@ -1,5 +1,7 @@
 An example LÖVE game, created for a workshop.
 
+You can find the original code [here](https://bitbucket.org/gprosser/coin).
+
 ![alt text](https://img.itch.zone/aW1hZ2UvMTkzMDM2LzkxOTY0My5naWY=/347x500/zCQhvS.gif "GIF")
 
 Executable available [here](https://gprosser.itch.io/coin).

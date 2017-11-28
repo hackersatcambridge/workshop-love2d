@@ -1,2 +1,1 @@
-This workshop will take you through the basics of x. 
-We'll talk about how to foo and show you how, with a little work, you can bar your baz.
+Have you ever wanted to learn how to make games? This workshop will introduce game programming with LÖVE, a Lua framework for 2D games. We'll make a game from scratch and cover all the steps along the way. LÖVE is easy to learn and great for prototyping and game jams, so come along if you want to get started making games or want to learn a new tool.

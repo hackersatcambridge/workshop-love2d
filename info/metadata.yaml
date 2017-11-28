@@ -1,31 +1,42 @@
-title: Sample Workshop
+title: Make games quickly with LÖVE
 
 # People who have directly contributed content to this workhsop
 contributors:
-  - Richard HaC
+  - George Prosser
 
 # (optional) Non-contributors we would like to thank for helping to inspire, develop or facilitate this workshop
 thanks:
-  - Hacky Hal the chatbot pal
+  - Jared Khan
+  - Tom Read Cutting
+  - Henry Thompson
+  - Charlie Crisp
+  - Albert Bui
 
 # (optional) Links that attendees may wish to read after the workshop
 further_reading_links:
-  - name: Sampling
-    url: https://en.wikipedia.org/wiki/Sampling_(music)
-  - name: Best websites a programmer should visit
-    url: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-practice-for-beginners
+  - name: LÖVE Documentation
+    url: https://love2d.org/wiki/Main_Page
+  - name: Some LÖVEly Libraries
+    url: https://love2d.org/wiki/Category:Libraries
+  - name: More LÖVEly Libraries
+    url: https://github.com/love2d-community/awesome-love2d
+  - name: Lua Documentation
+    url: https://www.lua.org/manual/5.1/
+  - name: Lua online interpreter
+    url: https://www.lua.org/cgi-bin/demo
 
 # (optional) Link to a video recording of the workshop
-recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
+# recording_link: https://www.youtube.com/watch?v=FHG2oizTlpY
 
 # (optional) Link to any slides associated with the workshop
-slides_link: https://docs.google.com/presentation/d/10VeyoN7EzxfezPjInAda_uEBZ1yp1UkY7z8ST78Do8Q
+slides_link: https://docs.google.com/presentation/d/1tV3VHcqAhVIFc6UTXCoY6-7eQdcPqdPHy6P3XGPi2X0
 
 # A set of keywords associated with the workshop
 tags:
   - beginner
-  - javascript
-  - web
+  - lua
+  - love2d
+  - games
   - programming
 
 # A license code by which the workshop content is released
