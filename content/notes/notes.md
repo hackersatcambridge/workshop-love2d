@@ -1,6 +1,6 @@
 # Installation Instructions
 
-You can install LÖVE by downloading it from the [LÖVE homepage](https://love2d.org/) or by following the instructions below for this workshop.
+You can install LÖVE by downloading it from the [LÖVE homepage](https://love2d.org/) or by following the instructions below for this workshop. Assets are found [here](#asset-links).
 
 ## Windows
 
@@ -58,7 +58,7 @@ end
 
 # Asset Links
 
-Assets like music, images, and fonts will be used when creating the game for this workshop, you can find them [here](https://github.com/hackersatcambridge/workshop-love2d/raw/master/content/notes/assets/assets.zip).
+Assets like music, images, and fonts will be used when creating the game for this workshop, you can find them [**here**](https://github.com/hackersatcambridge/workshop-love2d/raw/master/content/notes/assets/assets.zip).
 
 # Example Games
 
