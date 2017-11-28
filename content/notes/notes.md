@@ -58,14 +58,11 @@ end
 
 # Asset Links
 
-Assets like music, images, and fonts will be used when creating the game for this workshop, links to them can be found below.
-
-
-
+Assets like music, images, and fonts will be used when creating the game for this workshop, you can find them [here](https://github.com/hackersatcambridge/workshop-love2d/raw/master/content/notes/assets/assets.zip).
 
 # Example Games
 
-These are some example games created with LÖVE, just for this workshop. You can download them by cloning this repository or by downloading the executables below.
+These are some example games created with LÖVE, just for this workshop. You can download them by cloning [this repository](https://github.com/hackersatcambridge/workshop-love2d/) or by downloading the executables below.
 
 To run these from source, just drag the folders onto your LÖVE executable or run `love FOLDER_NAME` from the command line.
 
