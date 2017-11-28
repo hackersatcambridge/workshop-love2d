@@ -85,6 +85,6 @@ CÖIN is a version of the game we created in this workshop, but taken to the nex
 
 ![ZÖMBIE game video](images/zombie.gif)
 
-ZÖMBIE takes everything to the next level, what if the coins from the previous game, were deadly, chased you down, and had a craving for brains???
+ZÖMBIE takes everything to the next level! What if the coins from the previous game, were deadly, chased you down, and had a craving for brains???
 
 
