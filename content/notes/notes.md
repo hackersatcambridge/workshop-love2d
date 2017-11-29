@@ -68,7 +68,7 @@ To run these from source, just drag the folders onto your LÖVE executable or ru
 
 ## CÖIN
 
-- [CÖIN source](/coin): `/coin`
+- [CÖIN source](/examples/coin): `/examples/coin`
 
 - [CÖIN executable](https://gprosser.itch.io/coin)
 
@@ -79,7 +79,7 @@ CÖIN is a version of the game we created in this workshop, but taken to the nex
 
 ## ZOMBIE
 
-- [ZÖMBIE source](/zombie): `/zombie`
+- [ZÖMBIE source](/examples/zombie): `/examples/zombie`
 
 - [ZÖMBIE executable](https://gprosser.itch.io/zombie)
 
